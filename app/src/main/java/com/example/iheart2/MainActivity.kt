@@ -41,8 +41,12 @@ class MainActivity : AppCompatActivity() {
 
         // Filament: load environemtn lighting
 //        loadGlb("DamagedHelmet")
-        loadGltf("BusterDrone")
+//        loadGlb("PDACubeSmall")
+//        loadGlb("PDA_large")
+        loadGlb("PDA_medium")
+//        loadGltf("BusterDrone")
         loadEnvironment("venetian_crossroads_2k")
+//        loadEnvironment("lightroom_14b")
         //
     }
 
